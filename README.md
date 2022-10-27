@@ -1,5 +1,5 @@
 # VoidExperiments
-An attempt at creating a documentation on Minecraft 0.1.21 Void Experiments webseries
+An attempt at creating a documentation on Minecraft Void Experiments ARG. If you have something to add - open an issue or fork the repository and PR the changes.
 
 ## Videos
 ### [mark101 (formerly Minecraft Alpha Gameplay)](https://www.youtube.com/channel/UCFi2lnblEc4CBxGMQAWyMHg)
@@ -25,16 +25,41 @@ An attempt at creating a documentation on Minecraft 0.1.21 Void Experiments webs
 - [orders](https://www.youtube.com/watch?v=FzdbfjoUkTI)
 - [v=3VWJelB3Hmk](https://www.youtube.com/watch?v=3PzPaDZdR3Q)
 - [Revolt](https://www.youtube.com/watch?v=q8dKxF9LbzY)
-- [What happened after the attacks on the moon?](https://www.youtube.com/watch?v=1REDLxJ7fEk)  
+- [What happened after the attacks on the moon?](https://www.youtube.com/watch?v=1REDLxJ7fEk)
+- [00071](https://www.youtube.com/watch?v=x1pqizMhNCQ)
+- [Talking with spire ended shortly](https://www.youtube.com/watch?v=hOFYw19GK4I)
+- [missing](https://www.youtube.com/watch?v=yG5Lajiaszk)
+- [rescue](https://www.youtube.com/watch?v=ZJTKsdal6BI)
+- [adminspace](https://www.youtube.com/watch?v=hi55DK32Yog)
+- [investigation 5 moon shedding](https://www.youtube.com/watch?v=3WJ1RmiQ0k4)
+- [MoonFall](https://www.youtube.com/watch?v=eRSlWcr4W9U)
+- [backtoadminspace](https://www.youtube.com/watch?v=I-Jz73ueiK4)
+- [Imminent](https://www.youtube.com/watch?v=wutoritOQB4)
+- [The Beginning](https://www.youtube.com/watch?v=qXzeXDReFMU)
+- [a new body](https://www.youtube.com/watch?v=hqkE0p8p6Qk)
+- [Finality](https://www.youtube.com/watch?v=QxSMfz8tVAA)  
 
 **Unlisted videos**  
-- [instructed](https://www.youtube.com/watch?v=EtDNxRBENNo)
+- [instructed](https://www.youtube.com/watch?v=EtDNxRBENNo)  
+
 ### [ꕚ](https://www.youtube.com/channel/UCEVqNWUAqVrcj4myVvvi_dg)
 - [Investigating a breach in Sky4; Sector 1](https://www.youtube.com/watch?v=3VWJelB3Hmk)
 - [calm6](https://www.youtube.com/watch?v=6zbGWGuNT64)
 - [Recovered Footage](https://www.youtube.com/watch?v=z_0knCgy6W4)
+- [Rumbling heard after MB-DELTA toppled over](https://www.youtube.com/watch?v=M7ZpQ2t1h9s)
+- [Elsewhere](https://www.youtube.com/watch?v=gGr_h3YIRNc)
+
+### [JamiePlayzMC](https://www.youtube.com/channel/UCFVwYERqdSusoVuybQKiZ5w)
+- [Day 1](https://www.youtube.com/watch?v=ykNiH6HBNWE)  
+
+**Unlisted videos**
+
+### [The Let's Play Archive](https://www.youtube.com/channel/UCx8EGJWWvSQA2p8GdgQoi6w)
+- [First Step](https://www.youtube.com/watch?v=1QA53KnOPLw)
+- [Nguyen's Footage - #2](https://www.youtube.com/watch?v=t8OzzpNSb0Y)
 
 ## Characters
+### Players
 - 2008score
 - d13
 - Electric9001
@@ -45,6 +70,7 @@ An attempt at creating a documentation on Minecraft 0.1.21 Void Experiments webs
 - saw_13
 - SpireTheBuilder10
 - Xxmastercheef_reef2001xX
+### Developers (?)
 - X
 - ꕚ
 - ✺
