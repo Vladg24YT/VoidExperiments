@@ -90,6 +90,9 @@ An attempt at creating a documentation on Minecraft Void Experiments ARG. If you
 - [First Step](https://www.youtube.com/watch?v=1QA53KnOPLw)
 - [Nguyen's Footage - #2](https://www.youtube.com/watch?v=t8OzzpNSb0Y)
 
+**Unlisted videos**
+- [Nguyen's Footage - #3](https://www.youtube.com/watch?v=3OlO8m5u44k)
+
 ## Characters
 - Author
 ### Players
