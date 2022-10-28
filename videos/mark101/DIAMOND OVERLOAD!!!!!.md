@@ -1,7 +1,7 @@
 # DIAMOND OVERLOAD!!!!!
-| Upload date | Version |
-| ----- | ----- |
-| 31-10-2021 | Minecraft Alpha v1.0.7 |
+| Upload date | Version | Link |
+| ----- | ----- | ----- |
+| 31-10-2021 | Minecraft Alpha v1.0.7 | [YouTube](https://youtu.be/D69fjXHNarQ) |
 
 ## Description 
 
@@ -16,4 +16,4 @@ music is pendulum- tarantula
 ## Oddities
 - The video is made with OneTrueMedia
 - Player skin is completely black
-- [01:17] Player attempts to look at the move via the third-person view
+- [01:17] Player attempts to look at the moon via the third-person view
