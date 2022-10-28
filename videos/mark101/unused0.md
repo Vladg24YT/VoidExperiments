@@ -1,7 +1,7 @@
 # unused0 (?yoUjusTdonTknoW)
-| Upload date | Version |
-| ----- | ----- |
-| 24-10-2021 | Minecraft Alpha v1.0.7 |
+| Upload date | Version | Link |
+| ----- | ----- | ----- |
+| 24-10-2021 | Minecraft Alpha v1.0.7 | [YouTube](https://youtu.be/EOt5IQI3VlY) |
 
 ## Description (original)
 file last modified: 7-23-2010  
