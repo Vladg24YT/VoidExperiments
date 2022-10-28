@@ -5,10 +5,10 @@ An attempt at creating a documentation on Minecraft Void Experiments ARG. If you
 
 ## Videos
 ### [mark101 (formerly Minecraft Alpha Gameplay)](https://www.youtube.com/channel/UCFi2lnblEc4CBxGMQAWyMHg)
-- [unused0](https://www.youtube.com/watch?v=EOt5IQI3VlY)
-- [moonglitch.avi](https://www.youtube.com/watch?v=0qkh6vredyo)
-- [DIAMOND OVERLOAD!!!!!](https://www.youtube.com/watch?v=D69fjXHNarQ)
-- [unused1](https://www.youtube.com/watch?v=79LMcIVbc7E)
+- [unused0](/videos/mark101/unused0.md)
+- [moonglitch.avi](/videos/mark101/moonglitch.avi.md)
+- [DIAMOND OVERLOAD!!!!!](/videos/mark101/DIAMOND%20OVERLOAD%21%21%21%21%21.md)
+- [unused1](/videos/mark101/unused1.md)
 - [im back](https://www.youtube.com/watch?v=N0650l9VJMk)
 - [observations](https://www.youtube.com/watch?v=W0DuJINV_D4)
 - [second world](https://www.youtube.com/watch?v=u0FUjHYMgPs)
