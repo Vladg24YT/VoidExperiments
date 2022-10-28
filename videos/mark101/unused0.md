@@ -43,5 +43,5 @@ uoYlliWeeSs'kraMettiLdneirF.
 
 ## Oddities
 - Player skin is completely black
-- [06:07] View distance gradually decreases
+- [06:07] View distance gradually decreases; a strange buzzing/ringing noise starts playing
 - [06:16] After looking down player gets teleported to a location near spawn
