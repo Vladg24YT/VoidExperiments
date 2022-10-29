@@ -1,3 +1,11 @@
+-----
+
+Don't wait for new commits as all the work will be moved to https://mark101.fandom.com/  
+Thank you for your understanding.
+
+-----
+
+
 # VoidExperiments
 An attempt at creating a documentation on Minecraft Void Experiments ARG. If you have something to add - open an issue or fork the repository and PR the changes.
 
